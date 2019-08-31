@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 ,美国舒缓频道Silence HD TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 ,美国舒缓频道Silence HD TV
+http://109.236.85.100:8081/SilenceTV/live/chunks.m3u8
+#EXTINF:-1 ,美国舒缓频道Silence HD TV
+http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pics.prcm.jp/dea3d5a8dcd76/53796588/png/53796588.png" group-title="",Kuroko's Basketball (日本动画)
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,加拿大青少年娱乐频道French TV 16+
+http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
+#EXTINF:-1 ,朝鲜中央电视台
+http://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 ,英国BBC World
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+#EXTINF:-1 ,英国BBC World
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CBN News(美国-小卡)
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
