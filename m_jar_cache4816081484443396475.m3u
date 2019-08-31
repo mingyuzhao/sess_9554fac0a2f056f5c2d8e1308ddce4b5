@@ -3,6 +3,28 @@
 https://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,Discovery Channel Science
 http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 ,探索科学频道Discovery Science
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1 ,美国HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,美国HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 ,动物星球频道Animal Planet
+http://80.80.160.168/live/1/500000/live.m3u8
+#EXTINF:-1 ,动物星球频道Animal Planet SD UK(英国)
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 ,动物星球频道Animal Planet SD UK(英国)
+http://80.80.160.168/live/1/1500000/live.m3u8
+#EXTINF:-1 ,动物星球频道Animal Planet SD UK(英国)
+http://80.80.160.168/live/1/1000000/live.m3u8
+#EXTINF:-1 ,102510-517淫荡的家政妇
+http://video1.rhsj520.com:8091/nyrm3/jlb-112/102510-517/1500kb/hls/index.m3u8
+#EXTINF:-1 ,美国之音VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 ,美国之音VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 ,美国VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="", Friends (EN TV Series 1994–2004)
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="",24/7 Hollywood Movies 11
