@@ -1,8 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",US HD - Hard Knocks Fighting
+http://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",六小龄童 - 西游记
+https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="",NASA
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S71Rjnk.jpg" group-title="Sport",NBA Plus
 https://bozztv.com/36bay2/gin/giniko_nbaplus_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="Sport",EN HD - EDGEsport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1 tvg-id="ESPN News-US" tvg-name="ESPN News-US" tvg-logo="https://static.iptv-epg.com/us/ESPNNews.us.png" group-title="Sport",EN HD - ESPNews
+http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="NBA TV USA-US" tvg-name="NBA TV USA-US" tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Sport",NBA TV
 http://185.246.209.109:8080/NBA9/index.m3u8
 #EXTINF:-1 ,美国PLUTO TV After School Cartoons
