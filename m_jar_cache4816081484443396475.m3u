@@ -1,55 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="",NASA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/SECNetwork.us.png" group-title="Sport",SEC Network
+http://185.246.209.109:8080/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://akamaicdn.shoplc.com/landing/product-recalls/ShopLC--DeliveringJoy.png" group-title="Shop",Shop LC
+https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/ShowtimeShowcase.us.png" group-title="Movies",Showtime Showcase
+http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="Sport",Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sport",Stadium (Opt-1)
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="Sport",Stadium (Opt-2)
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="",NASA
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S71Rjnk.jpg" group-title="Sport",NBA Plus
 https://bozztv.com/36bay2/gin/giniko_nbaplus_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NBA TV USA-US" tvg-name="NBA TV USA-US" tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="Sport",NBA TV
 http://185.246.209.109:8080/NBA9/index.m3u8
-#EXTINF:-1 ,8频道(新加坡 - 普通话)
+#EXTINF:-1 ,新加坡 普通话 - 8频道
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 ,WOW TV(加拿大)
+#EXTINF:-1 ,加拿大 - WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,Hunt Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="",Hunt Channel (Opt-1)
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2017/10/HC-Logo-transparent.png" group-title="",Hunt Channel (Opt-2)
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MLB Network(美国职业棒球大联盟)
+#EXTINF:-1 ,美国职业棒球大联盟 - MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 ,美国舒缓频道Silence HD TV
+#EXTINF:-1 ,美国舒缓频道 - Silence HD TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 ,美国经典艺术展播电视频道Classic Arts Showcase
+#EXTINF:-1 ,美国经典艺术展播电视频道 - Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 ,Bear Grylls - Man vs. Wild
 https://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="", Friends (EN TV Series 1994–2004)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="",English TV Series 1994–2004 - Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 ,Discovery Channel Science
 http://80.80.160.168/live/9/2500000/live.m3u8
-#EXTINF:-1 ,HBO2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="Movies",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" group-title="Movies",HBO Zone
 http://185.246.209.109:8080/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" group-title="Movies",HBO2 (Opt-1)
-http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movies",HBO2 (Opt-2)
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="Movies",HBO2 (Opt-3)
-http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-1L5Qo-Hs6Qc/TXxCPre9m_I/AAAAAAAACG4/k6UmYBngn9g/s1600/Picture%2B20.png" group-title="Movies",HBO2 (Opt-4)
-http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Movies",HBO2 (Opt-5)
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO2 (Opt-6)
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1 ,BBC World(英国)
+#EXTINF:-1 ,UK - BBC World
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1 ,MTV(美国)
+#EXTINF:-1 ,US - MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ,Animal Planet SD UK(英国)
+#EXTINF:-1 ,SD UK - Animal Planet
 http://80.80.160.168/live/1/1000000/live.m3u8
-#EXTINF:-1 ,家政妇(日本)
+#EXTINF:-1 ,日本 - 家政妇
 http://video1.rhsj520.com:8091/nyrm3/jlb-112/102510-517/1500kb/hls/index.m3u8
 #EXTINF:-1 ,VOA 4 US
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8

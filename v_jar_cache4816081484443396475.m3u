@@ -15,5 +15,15 @@ http://tv.nknews.org/tvhls/stream.m3u8
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 ,英国BBC World
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="Movies",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="Movies",HBO2 (Opt-3)
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-1L5Qo-Hs6Qc/TXxCPre9m_I/AAAAAAAACG4/k6UmYBngn9g/s1600/Picture%2B20.png" group-title="Movies",HBO2 (Opt-4)
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a0b1113c1.jpg" group-title="Movies",HBO2 (Opt-5)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO2 (Opt-6)
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1 ,CBN News(美国-小卡)
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
