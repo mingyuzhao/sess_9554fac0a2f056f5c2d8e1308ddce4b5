@@ -47,3 +47,11 @@ http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 http://61.58.60.230:9319/live/75.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/ElevenSports2.uk.png" group-title="Sport",11 Sports 台湾 2
 http://61.58.60.230:9319/live/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ivy.com.tw/ivyhtmlpic/e-paper/enjoy/201401/01271.jpg" group-title="",楚汉相争 24/7 Reality TV 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",六小龄童 - 西游记
+https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",非李云龙版 - 亮剑
+https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",天地玄黄
+https://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8
